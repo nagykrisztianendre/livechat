@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="chatsFragmentColor">#949391</color>
+    <color name="usersFragmentColor">#5bc7b5</color>
+    <color name="white">#fff</color>
+</resources>
